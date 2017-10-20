@@ -219,8 +219,7 @@ def SEND_MESSAGE(op):
                     sendMessage(msg.to,"Ungkapkan perasaanmu")
                     sendMessage(msg.to,"Jujurlah dari sekarang juga..")
                     sendMessage(msg.to,"SPAM IS DONE")
-                    sendMessage(msg.to,"Created By : Farzain - zFz")
-                    sendMessage(msg.to,"Subscribe My Channel : https://www.youtube.com/c/zFz48")
+
 #-------------------------------------------------------------
                 if msg.text == "Tagall":
 		      group = client.getGroup(msg.to)
