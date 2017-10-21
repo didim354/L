@@ -32,7 +32,7 @@ class url(object):
     AppName     = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0'
     port        = 443
     systemname  = 'Doomsday'
-    ip          = '8.8.8.8'
+    ip          = '192.168.1.1'
     _session = requests.session()
     Headers = {}
     _pincode = None
