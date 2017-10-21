@@ -31,8 +31,8 @@ class url(object):
     UserAgent   = 'DESKTOP:MAC:10.10.2-YOSEMITE-x64(4.5.0)'
     AppName     = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0'
     port        = 443
-    systemname  = 'Doomsday'
-    ip          = '192.168.1.1'
+    systemname  = 'VODKA-PC'
+    ip          = '8.8.8.8'
     _session = requests.session()
     Headers = {}
     _pincode = None
